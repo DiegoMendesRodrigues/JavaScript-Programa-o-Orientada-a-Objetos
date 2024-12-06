@@ -12,7 +12,7 @@ node index.js
 
 ## Tecnologias
 
-- JavaScprit
+- JavaScript
 - Node.js
 
 ## Acesso ao Projeto
