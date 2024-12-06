@@ -1,0 +1,12 @@
+{
+  "name": "programacao-orientada-objetos",
+  "version": "1.0.0",
+  "main": "1-objeto_literal.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego",
+  "license": "MIT",
+  "description": ""
+}
